@@ -1,3 +1,3 @@
 # Welcome Interns!!
 
-![Learning Python](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd5dGhidGl2YzdzOTN1ajR3bnNmbXU0cmEydGVsYnZ6OTZndmNteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Learning Python](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVja3hhaTFnYmN3OTE1a2NobHR4eHp3amxocWhocWFrbjZtcDh2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif)
