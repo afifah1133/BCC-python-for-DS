@@ -1,10 +1,12 @@
 # Python Basics for Data Science
 
-![Learning Python](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611j007uace9f8pfdg86jtgwi1o4tsfvjl863xk3nbx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Learning Python](../Images/copy_cover.jpg)
+
+[//]: # (![Learning Python]&#40;https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611j007uace9f8pfdg86jtgwi1o4tsfvjl863xk3nbx&ep=v1_gifs_search&rid=giphy.gif&ct=g&#41;)
 
 Hello, fellow BCC interns and aspiring data scientists! 👋
 
-This BCC Data Science Department repository is your friendly guide to mastering the fundamentals of Python with a focus on skills that are essential for data science. Here, you'll learn basic programming concepts such as loops, conditionals, functions, and Object-Oriented Programming (OOP) to build a solid foundation for your data science journey.
+This BCC Data Science Department repository is your friendly guide to mastering the fundamentals of Python with a focus on skills that are essential for data science. Here, you'll learn basic programming concepts such as data types, loops, conditionals, functions, Object-Oriented Programming (OOP), etc to build a solid foundation for your data science journey.
 
 ## What You'll Learn
 
