@@ -1,10 +1,12 @@
 # Python Basics for Data Science
 
-![Learning Python](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611j007uace9f8pfdg86jtgwi1o4tsfvjl863xk3nbx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img width="100%" src="Images/copy-cover.png" alt="foto">
+</p>
 
-Hello, fellow BCC interns and aspiring data scientists! 👋
+Hello fellow BCC interns and aspiring data scientists! 👋
 
-This BCC Data Science Department repository is your friendly guide to mastering the fundamentals of Python with a focus on skills that are essential for data science. Here, you'll learn basic programming concepts such as loops, conditionals, functions, and Object-Oriented Programming (OOP) to build a solid foundation for your data science journey.
+This BCC Data Science Department repository is your friendly guide to mastering the fundamentals of Python with a focus on skills that are essential for data science. Here, you'll learn basic programming concepts such as data types, loops, conditionals, functions, Object-Oriented Programming (OOP), etc to build a solid foundation for your data science journey.
 
 ## What You'll Learn
 
@@ -63,6 +65,6 @@ Feel like a pro? Test yourself at :
 
 [//]: # (![Learning Python]&#40;https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVja3hhaTFnYmN3OTE1a2NobHR4eHp3amxocWhocWFrbjZtcDh2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif&#41;)
 
-#### Happy Coding!
+### Happy Coding!
 
 *Maintained by [diyrad](https://github.com/diyangraditya)*
