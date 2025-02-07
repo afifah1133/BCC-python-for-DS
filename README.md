@@ -63,8 +63,6 @@ Feel like a pro? Test yourself at :
 - [algoexpert](https://www.algoexpert.io/product)
 
 
-[//]: # (![Learning Python]&#40;https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVja3hhaTFnYmN3OTE1a2NobHR4eHp3amxocWhocWFrbjZtcDh2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif&#41;)
-
 ### Happy Coding!
 
 *Maintained by [diyrad](https://github.com/diyangraditya)*
