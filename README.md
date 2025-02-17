@@ -63,6 +63,6 @@ Feel like a pro? Test yourself at :
 - [algoexpert](https://www.algoexpert.io/product)
 
 
-### Happy Coding!
+### Happy Coding!!
 
 *Maintained by [diyrad](https://github.com/diyangraditya)*
